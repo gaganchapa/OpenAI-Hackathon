@@ -14,10 +14,7 @@ It can generate imagery in multiple styles, including photorealistic imagery, pa
 
 
 ## Demo
-
-Insert gif or link to demo
-
-https
+https://drive.google.com/drive/folders/18BAnMMTzEx0N7HrCORwsbRgKHqKvh6_c?usp=sharing
 
 
 ## Installation
