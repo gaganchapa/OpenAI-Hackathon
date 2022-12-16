@@ -1,9 +1,4 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Thu Dec 15 17:43:00 2022
 
-@author: Tejo Vardhan
-"""
 
 
 import openai
