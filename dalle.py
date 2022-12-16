@@ -12,7 +12,7 @@ from PIL import Image
 import streamlit as st
 
 
-openai.api_key = "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"
+openai.api_key = "Enter the API key over here"
 
 def generate_image(image_description):
 
